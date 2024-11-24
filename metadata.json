@@ -1,0 +1,26 @@
+{
+  "name": "OG FortCoin",
+  "symbol": "FORTCOIN",
+  "description": "OG FortCoin is the ultimate currency for battle royale enthusiasts. Built for gamers, this token symbolizes the legacy of skill, strategy, and victory.",
+  "image": "https://i.imgur.com/z9flATP.jpg",
+  "attributes": [
+    {
+      "trait_type": "Utility",
+      "value": "Gaming Rewards"
+    },
+    {
+      "trait_type": "Experience",
+      "value": "Legacy of Champions"
+    },
+    {
+      "trait_type": "Community",
+      "value": "Battle Royale Enthusiasts"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Victory and Glory"
+    }
+  ],
+  "external_url": "https://x.com/OG_FORTCOIN"
+}
+
